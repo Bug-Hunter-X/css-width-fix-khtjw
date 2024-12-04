@@ -1,0 +1,1 @@
+This repository demonstrates a common but subtle CSS error: a typo in the `width` property.  The incorrect spelling, `widht`, causes the browser to ignore the width declaration entirely. This can lead to unexpected layout issues. The solution shows the corrected CSS with the proper spelling of `width`.
