@@ -1,0 +1,11 @@
+The corrected CSS rule with the proper spelling of the `width` property:
+
+```css
+div {
+  font-size: 16px;
+  text-align: center;
+  width: 50%;
+}
+```
+
+This ensures the `div` element will correctly occupy 50% of its containing element's width.
