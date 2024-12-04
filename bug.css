@@ -1,0 +1,11 @@
+The following CSS rule uses an invalid property name, causing the rule to be ignored by the browser:
+
+```css
+div {
+  font-size: 16px;
+  text-align: center;
+  widht: 50%; /*Typo: should be width*/
+}
+```
+
+This results in the div element not having the intended width.
